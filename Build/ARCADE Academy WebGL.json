@@ -1,0 +1,12 @@
+{
+"companyName": "ETC",
+"productName": "ARCADE Academy Desktop",
+"dataUrl": "ARCADE Academy WebGL.data.unityweb",
+"wasmCodeUrl": "ARCADE Academy WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "ARCADE Academy WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
